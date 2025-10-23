@@ -28,6 +28,7 @@ By implementing **live updates** and **interactive charts**, the dashboard enhan
 | **Protocol** | HTTP / MQTT (for IoT data transfer) |
 
 ## 🧩 System Architecture
+
 1. IoT devices (like ESP32 or NodeMCU) collect sensor data.  
 2. The data is sent to a **web server** or **API endpoint**.  
 3. The **dashboard fetches** data periodically using JavaScript (AJAX or WebSocket).  
@@ -35,6 +36,7 @@ By implementing **live updates** and **interactive charts**, the dashboard enhan
 5. Users can view live readings and analytics through a **responsive web interface**.
 
 ## 🖥️ Usage Instructions
+
 1. Clone or download the project files.  
 2. Open the project folder in your code editor.  
 3. Modify the JavaScript section to link your IoT data endpoint (API or sensor data).  
