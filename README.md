@@ -1,4 +1,3 @@
-# IoT-Data-Dashboard-for-Real-Time-Sensor-Monitoring
 An **interactive and responsive IoT dashboard** designed for **real-time sensor data visualization**.  
 This project enables users to **monitor live IoT data efficiently** through dynamic charts and real-time updates, offering an intuitive way to track environmental or system parameters.
 
