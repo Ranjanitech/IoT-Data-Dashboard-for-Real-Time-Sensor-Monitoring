@@ -3,11 +3,15 @@
 An **interactive and responsive IoT dashboard** designed for **real-time sensor data visualization**.  
 This project enables users to **monitor live IoT data efficiently** through dynamic charts and real-time updates, offering an intuitive way to track environmental or system parameters.
 
+---
+
 ## 🔍 Overview
 
 The **IoT Data Dashboard** is built using **HTML, CSS, and JavaScript**, allowing seamless integration with IoT devices.  
 It dynamically visualizes sensor data such as temperature, humidity, light intensity, or other real-time parameters.  
 By implementing **live updates** and **interactive charts**, the dashboard enhances monitoring efficiency by **up to 50%**, providing clear insights into sensor performance.
+
+---
 
 ## ⚙️ Key Features
 
@@ -17,7 +21,7 @@ By implementing **live updates** and **interactive charts**, the dashboard enhan
 - ⚙️ **Customizable** — Can connect to various IoT devices or APIs.  
 - 🔒 **Efficient Monitoring** — Improved usability and data accuracy by up to 50%.
 
-
+---
 
 ## 🧠 Technology Stack
 
@@ -29,6 +33,8 @@ By implementing **live updates** and **interactive charts**, the dashboard enhan
 | **Backend (Optional)** | Firebase / Local Server |
 | **Protocol** | HTTP / MQTT (for IoT data transfer) |
 
+---
+
 ## 🧩 System Architecture
 
 1. IoT devices (like ESP32 or NodeMCU) collect sensor data.  
@@ -37,6 +43,8 @@ By implementing **live updates** and **interactive charts**, the dashboard enhan
 4. **Chart.js** dynamically updates graphs and visual indicators in real time.  
 5. Users can view live readings and analytics through a **responsive web interface**.
 
+---
+
 ## 🖥️ Usage Instructions
 
 1. Clone or download the project files.  
@@ -44,6 +52,11 @@ By implementing **live updates** and **interactive charts**, the dashboard enhan
 3. Modify the JavaScript section to link your IoT data endpoint (API or sensor data).  
 4. Open `index.html` in your browser to view the dashboard.  
 5. Observe real-time updates and live chart visualization.
+
+
+
+
+
 
 
 
